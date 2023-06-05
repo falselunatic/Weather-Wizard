@@ -178,7 +178,6 @@ https://github.com/falselunatic/Weather-Wizard/assets/97685305/1318dfac-c206-4c0
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 
 ## Project Specifications
 
